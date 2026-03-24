@@ -1472,11 +1472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AVE-LP-05\\Desktop\\OrgImporter\\OrgImporter\\OrgImporter.csproj",
+      "projectUniqueName": "C:\\Users\\AVE-LP-05\\Desktop\\console app\\OrgImporter\\OrgImporter.csproj",
       "projectName": "OrgImporter",
-      "projectPath": "C:\\Users\\AVE-LP-05\\Desktop\\OrgImporter\\OrgImporter\\OrgImporter.csproj",
+      "projectPath": "C:\\Users\\AVE-LP-05\\Desktop\\console app\\OrgImporter\\OrgImporter.csproj",
       "packagesPath": "C:\\Users\\AVE-LP-05\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AVE-LP-05\\Desktop\\OrgImporter\\OrgImporter\\obj\\",
+      "outputPath": "C:\\Users\\AVE-LP-05\\Desktop\\console app\\OrgImporter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

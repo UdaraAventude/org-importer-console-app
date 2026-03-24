@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OLGAGSBcd8E=",
+  "dgSpecHash": "avVUeW3tOUY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AVE-LP-05\\Desktop\\OrgImporter\\OrgImporter\\OrgImporter.csproj",
+  "projectFilePath": "C:\\Users\\AVE-LP-05\\Desktop\\console app\\OrgImporter\\OrgImporter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AVE-LP-05\\.nuget\\packages\\closedxml\\0.105.0\\closedxml.0.105.0.nupkg.sha512",
     "C:\\Users\\AVE-LP-05\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",

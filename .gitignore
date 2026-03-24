@@ -1,0 +1,41 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Rider IDE
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+ 
+# Test results
+TestResults/
+coverage/
+
+# Publish output
+publish/
+*.zip
+
+# Temporary files
+*.tmp
+*.temp
